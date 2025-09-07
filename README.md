@@ -7,8 +7,7 @@
 `🌱 Expanding Expertise In:`  
 `AI & HCI | Full-Stack Development | Data Analytics | Cloud & DevOps`
 
-`📫 Reach Me At:`  
-`omarshahariar20@gmail.com`
+
 
 `I am an individual with a strong enthusiasm for continuous learning and growth, embracing new challenges with dedication and determination. I find joy in utilizing my skills to make a meaningful impact. Actively seeking opportunities, I aspire to contribute to innovative projects and dynamic teams while expanding my expertise across AI, Data Analytics, and multiple development domains.`
 
