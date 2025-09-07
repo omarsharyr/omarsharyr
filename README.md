@@ -1,13 +1,17 @@
-<h2 align="left">Hi 👋! </h2>
+<h2 align="left">Hi there, I'm Omar Shahariar 👋</h2>
+## 👨‍💻 About Me
+
+I enjoy building intelligent systems that learn and adapt, creating applications that are both robust and user-friendly, and extracting actionable insights from complex data.  
+I also design and maintain scalable infrastructure that ensures smooth deployment and reliable performance across platforms.  
+
+Exploring innovative solutions and connecting multiple technologies to solve real-world problems is what drives me.
+
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarsharyr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarsharyr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=omarsharyr&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-
-
 ###
 
 
