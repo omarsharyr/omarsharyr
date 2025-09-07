@@ -1,10 +1,7 @@
 <h2 align="left">Hi there, I'm Omar Shahariar 👋</h2>
-## 👨‍💻 About Me
 
-I enjoy building intelligent systems that learn and adapt, creating applications that are both robust and user-friendly, and extracting actionable insights from complex data.  
-I also design and maintain scalable infrastructure that ensures smooth deployment and reliable performance across platforms.  
 
-Exploring innovative solutions and connecting multiple technologies to solve real-world problems is what drives me.
+I enjoy building intelligent systems that learn and adapt, creating applications that are both robust and user-friendly, and extracting actionable insights from complex data. I also design and maintain scalable infrastructure that ensures smooth deployment and reliable performance across platforms. Exploring innovative solutions and connecting multiple technologies to solve real-world problems is what drives me.
 
 
 ###
